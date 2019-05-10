@@ -2,7 +2,8 @@
     "require": {
         "atk4/ui": "*",
         "atk4/data": "*",
-        "atk4/core": "*"
+        "atk4/core": "*",
+        "curl/curl": "^2.2"
     },
     "require-dev": {
         "phpunit/phpunit": "<6",
